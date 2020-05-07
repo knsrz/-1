@@ -39,7 +39,9 @@ git push origin master
 
 
 
+7.克隆别人的仓库到本地
 
+git clone 地址
 
 # 其它命令
 
