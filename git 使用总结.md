@@ -66,3 +66,4 @@ git add -p
 在vscode中使用git
 
 文件 -> 首选项-->设置   输入 git.path   选在那个文件进行编辑   在path中输入 你的git安装目录bin文件夹下 git.exe路径
+智能commit
