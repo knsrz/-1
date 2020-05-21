@@ -25,6 +25,8 @@ git commit -m '你的描述'
 
 git add .
 
+git commit -am 'zhushi' 添加并提交
+
 4.连接到你的某个github仓库
 
 git remote add origin  (有两种方式 http:\\开头的地址 和 ssh方式)
@@ -61,3 +63,6 @@ git add -p
 
 解决GitHub每次push时都提示输入用户名和密码的问题 https://blog.csdn.net/Mr_JavaScript/article/details/83043174
 
+在vscode中使用git
+
+文件 -> 首选项-->设置   输入 git.path   选在那个文件进行编辑   在path中输入 你的git安装目录bin文件夹下 git.exe路径
